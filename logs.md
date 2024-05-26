@@ -180,5 +180,80 @@ Tea moment:
 
 $\dfrac{6 + 2}{3} \rightarrow \dfrac{6}{3} + 2 \rightarrow 4$
 
+---
 
+## Esercizio 40 :
 
+$2\log^2x + 5\log x - 3 = 0$
+
+$z = logx$
+
+$2z^2 + 5z - 3 = 0$
+
+$\dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a}$
+
+$\dfrac{-5 \pm\sqrt{25 + 24}}{4}$
+
+$\dfrac{-5 \pm\sqrt{49}}{4}$
+
+$\dfrac{-5 \pm 7}{4}$
+
+$x_1 = -3, x_2 = \dfrac{1}{2}$
+
+$\log x = -3 \land \log x = \dfrac{1}{2}$
+
+$\log_{10} x = -3 \land \log_{10} x = \dfrac{1}{2}$
+
+$\log_a b = c \rightarrow a^c = b$
+
+$log_{10} x_1 = -3 \rightarrow 10^{-3} = x_1 \rightarrow x_1 = 0.001$
+
+$log_{10} x_2 = \dfrac{1}{2} \rightarrow 10^{\dfrac{1}{2}} = x_2 \rightarrow x_2 = \sqrt{10}$
+
+Soluzione:
+
+$x = 10^{-3} \cup x = \sqrt{10}$
+
+---
+
+$10^{\dfrac{1}{1}} = 10^{1} = 10$
+
+$10^{\dfrac{2}{1}} = 10^{2} = 100$
+
+$10^{\dfrac{1}{2}} \cdot 10^{\dfrac{1}{2}} = 10^{\dfrac{2}{2}} = 10^1 = 10$
+
+$x^2 = 10$
+
+$x = \pm\sqrt{10}$
+
+$\sqrt{x} = x^{\dfrac{1}{2}}$
+
+$x^\dfrac{3}{4} \rightarrow \sqrt[4]{x^3}$
+
+---
+
+Esempio pratico:
+
+$x = 2^\dfrac{3}{2}$
+
+$x = \sqrt{2^3}$
+
+$x = \sqrt{2^2 \cdot 2^1}$
+
+$x = 2\sqrt2$
+
+---
+
+Esempio pratico 2:
+
+$x = 2^\dfrac{25}{3}$
+
+$x = \sqrt[3]{2^{25}}$
+
+Ma è scomodo! Usiamo la testa:
+
+$x = 2^\dfrac{24}{3} \cdot 2^\dfrac{1}{3}$
+
+$x = 2^8 \cdot \sqrt[3]{2}$
+
+$x = 256\sqrt[3]{2}$
