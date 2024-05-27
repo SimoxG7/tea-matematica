@@ -182,7 +182,7 @@ $\dfrac{6 + 2}{3} \rightarrow \dfrac{6}{3} + 2 \rightarrow 4$
 
 ---
 
-## Esercizio 40 :
+## Esercizio 40:
 
 $2\log^2x + 5\log x - 3 = 0$
 
@@ -257,3 +257,147 @@ $x = 2^\dfrac{24}{3} \cdot 2^\dfrac{1}{3}$
 $x = 2^8 \cdot \sqrt[3]{2}$
 
 $x = 256\sqrt[3]{2}$
+
+---
+
+## Esercizio 65:
+
+$\log^2_{3} (x - 2) + \log_{\dfrac{1}{3}} (x - 2) = 6$
+
+$\log_a b = \dfrac{\log_c b}{\log_c a}$
+
+$a = \dfrac{1}{3}, b = x - 2, c = 3$
+
+$\log_{\dfrac{1}{3}} (x - 2) = \dfrac{\log_3 (x-2)}{\log_3 \dfrac{1}{3}}$
+
+Ma $\log_3 \dfrac{1}{3} = -1$ e dunque:
+
+$\log_{\dfrac{1}{3}} (x - 2) = \dfrac{\log_3 (x-2)}{-1} = -\log_3 (x - 2)$
+
+Allora ci siamo ricondotti a:
+
+$\log^2_3 (x - 2) - \log_3 (x - 2) -6 = 0$
+
+$ax^2 + bx + c$
+
+$z = log_3 (x - 2)$
+
+$z^2 -z -6 = 0$
+
+$\dfrac{1 \pm \sqrt{25}}{2}$
+
+$\dfrac{1 \pm 5}{2}$
+
+$z_1 = 3, z_2 = -2$
+
+$\log_3 (x - 2) = 3 \cup \log_3 (x - 2) = -2$
+
+$\log_3 (x - 2) = 3$
+
+$x - 2 = 3^3 \rightarrow $
+
+$\log_3 (x - 2) = -2$
+
+$x - 2 = 3^{-2}$
+
+$x - 2 = \dfrac{1}{9} \rightarrow x = 2 + \dfrac{1}{9} \rightarrow x_2 = \dfrac{19}{9}$
+
+Risultato: $x = 29 \cup x = \dfrac{19}{9}$
+
+---
+
+Preambulo sui quadrati di binomio:
+
+$(a + b)^2$
+
+$(a + b) \cdot (a + b)$
+
+$a^2 + ab + ab + b^2$
+
+$a^2 + 2ab + b^2$
+
+$(patata - 1)^2$
+
+$(patata - 1) \cdot (patata - 1)$
+
+Soluzione di Tea 1: $patata^2 -patata + 1$
+
+$patata^2 -2patata + 1$
+
+---
+
+## Esercizio 74:
+
+$(\log_2 (3x + 4) - 1)^2 = log_2 2$
+
+$(\log_2 (3x + 4) - 1)^2  - log_2 2 = 0$
+
+$(a + b) \cdot (a + b)$
+
+$a^2 + ab + ab + b^2$
+
+$(\log_2 (3x + 4) - 1) \cdot (\log_2 (3x + 4) - 1) - log_2 2 = 0$
+
+$a = \log_2 (3x + 4),  b = -1$
+
+$a^2 + ab + ab + b^2$
+
+$\log^2_2 (3x + 4) - \log_2 (3x + 4) - \log_2 (3x + 4) + 1 - \log_2 2 = 0$
+
+$\log^2_2 (3x + 4) -2\log_2 (3x + 4) + 1 - \log_2 2 = 0$
+
+Ma $\log_2 2 = 1$ e quindi: 
+
+$\log^2_2 (3x + 4) -2\log_2 (3x + 4) + 1 - 1 = 0$
+
+$\log^2_2 (3x + 4) -2\log_2 (3x + 4) = 0$
+
+$z = \log_2 (3x + 4)$
+
+$z^2 -2z = 0$
+
+$z (z - 2) = 0$
+
+$z = 0 \cup z = 2$
+
+$\log_2 (3x + 4) = 0 \cup \log_2 (3x + 4) = 2$
+
+$3x + 4 = 2^0 \rightarrow 3x + 4 = 1 \rightarrow 3x = -3 \rightarrow x = -1$
+
+$\log_2 (3x + 4) = 2$
+
+$3x + 4 = 4 \rightarrow 3x = 0 \rightarrow x = 0$
+
+$x = -1 \cup x = 0$
+
+---
+
+## Esercizio 95:
+
+$\log_2 3^x - 2 = 0$
+
+$x \cdot \log_2 3 = 2$
+
+$x = \dfrac{2}{\log_2 3}$
+
+---
+
+## Esercizio 88:
+
+$\ln 4^{x^2 - 6} - \ln 64 = 0$
+
+$\ln 4^{x^2 - 6} = \ln 64$
+
+$\ln 4^{x^2 - 6} = \ln 4^3$
+
+Risolviamo gli esponenti: 
+
+$x^2 - 6 = 3$
+
+$x^2 = 9$
+
+$x = \pm3$
+
+---
+
+
