@@ -4,3 +4,4 @@ Apri i singoli file su Github o vai su https://stackedit.io/app# e copia/incolla
 
 Lista dei file:
 - Esercizi sui logaritmi: logs.md
+- Esercizi sui logaritmi 2: logs2.md
