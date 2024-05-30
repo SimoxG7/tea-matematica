@@ -141,3 +141,139 @@ $\log x = - \dfrac{7}{2}$
 
 $x = 10^{- \dfrac{7}{2}}$
 
+---
+
+## Esercizio 35:
+
+$\log_2 (x - 2) - \log_4 (3x - 1) = 1$
+
+$\log_4 (3x - 1) = \dfrac{\log_2 (3x - 1)}{\log_2 4} \rightarrow \dfrac{\log_2 (3x - 1)}{2}$
+
+$2\log_2 (x - 2) - \log_2 (3x - 1) = 2$
+
+$\log_2 (x - 2)^2 - \log_2 (3x - 1) = 2$
+
+$\log_2 (x^2 -4x + 4) - \log_2 (3x - 1) = 2$
+
+$\log_2 \dfrac{x^2 -4x + 4}{3x - 1} = 2$
+
+$\log_2 \dfrac{x^2 -4x + 4}{3x - 1} = 2$
+
+$\log_a b = c | a^c = b$
+
+$\log_2 \dfrac{x^2 -4x + 4}{3x - 1} = 2 \rightarrow \dfrac{x^2 -4x + 4}{3x - 1} = 2^2 \rightarrow \dfrac{x^2 -4x + 4}{3x - 1} = 4$
+
+CE: $x$ diverso da $0$ e il tutto $> 0$ (in quanto argomento del log)
+
+$\dfrac{x^2 -4x + 4}{3x - 1} = 4$
+
+$x^2 -4x + 4 = 12x - 4$
+
+$x^2 -16x + 8 = 0$
+
+$\dfrac{-b \pm\sqrt{b^2 - 4ac}}{2a}$
+
+$\dfrac{16 \pm\sqrt{16^2 - 32}}{2}$
+
+$\dfrac{16 \pm\sqrt{224}}{2}$
+
+$\dfrac{16 \pm\sqrt{4 \cdot 56}}{2}$
+
+$\dfrac{16 \pm\sqrt{4 \cdot 4 \cdot 14}}{2}$
+
+$\dfrac{16 \pm\sqrt{16 \cdot 14}}{2}$
+
+$\dfrac{16 \pm 4\sqrt{14}}{2}$
+
+$8 \pm 2\sqrt{14}$
+
+$x_1 = 8 + 2\sqrt{14}$
+
+$\log_2 (x - 2) \rightarrow$ per esistere: $x > 2$
+
+$x_2 = 8 - 2\sqrt{14}$ ma è $< 2$, quindi la scartiamo.
+
+Come capire se era $x > 2$:
+
+$x_2 = 8 - 2\sqrt{14}$
+
+$x_2 = 4 - \sqrt{14}$
+
+$\sqrt{16} > \sqrt{14} > \sqrt{9}$
+
+$4 > \sqrt{14} > 3$
+
+Quindi la $\sqrt{14}$ è maggiore di $3$ e minore di $4$
+
+Usiamo 3 come valore della radice per fare una stima:
+
+$x_2 = 4 - 3$
+
+$x_2 = 1 \rightarrow$ rompe le CE perchè $x$ deve essere $> 2$ 
+
+Soluzione: $x = 8 + 2\sqrt{14}$
+
+---
+
+## Esercizio 38:
+
+$\log_{\dfrac{1}{3}} \log_2 (3x - 1) = 0$
+
+$z = \log_2 (3x - 1)$
+
+$\log_{\dfrac{1}{3}} z = 0$
+
+$\log_a b = c | a^c = b$
+
+$\log_{\dfrac{1}{3}} z = 0 \rightarrow (\dfrac{1}{3})^0 = z \rightarrow z = 1$
+
+$z = 1 \rightarrow \log_2 (3x - 1) = 1$
+
+$\log_a b = c | a^c = b$
+
+$3x - 1 = 2^1$
+
+$3x = 3$
+
+$x = 1$
+
+---
+
+## Esercizio 37:
+
+$\log_2 \log_3 \dfrac{(3x - 1)}{x} = 2$
+
+CE: 
+
+Denominatore: $x \not= 0$
+
+$\dfrac{(3x - 1)}{x} > 0$
+
+Numeratore: $3x - 1 > 0 \rightarrow x > \dfrac{1}{3}$
+
+Denominatore: $x > 0$
+
+CE: $x < 0 \lor x > \dfrac{1}{3}$
+
+$z = \log_3 \dfrac{(3x - 1)}{x}$
+
+$\log_2 z = 2$
+
+$z = 2^2 \rightarrow z = 4$
+
+$\log_3 \dfrac{(3x - 1)}{x} = 4$
+
+$\dfrac{(3x - 1)}{x} = 3^4$
+
+$\dfrac{(3x - 1)}{x} = 81$
+
+$3x - 1 = 81x$
+
+$78x = - 1$
+
+$x = -\dfrac{1}{78}$
+
+---
+
+
+
